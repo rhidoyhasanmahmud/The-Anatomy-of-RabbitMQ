@@ -18,7 +18,7 @@
 |8  | [Does RabbitMQ have any concept of message priority?](#does-RabbitMQ-have-any-concept-of-message-priority)|
 |9    | [How to consume messages from RabbitMQ using Spring Boot?](#how-to-consume-messages-from-RabbitMQ-using-Spring-Boot)|
 |10 | [What is a Dead Letter Queue?](#what-is-a-Dead-Letter-Queue)|
-|11 | [RabbitMQ Retry Strategy](#rabbitMQ-Retry-Strategy)
+|11 | [RabbitMQ Retry Strategy](#RabbitMQ-Retry-Strategy)
 
 ## Core Message broker - RabbitMQ
 
@@ -56,7 +56,7 @@
 
    **[⬆ Back to Top](#table-of-contents)**
 
-3. ### What is Advanced Message Queuing Protocol ?
+3. ### What is Advanced Message Queuing Protocol?
 
    The Advanced Message Queuing Protocol (AMQP) is an open standard application layer protocol for message-oriented
    middleware. AMQP 0-9-1 is a binary messaging protocol and semantic framework for microservices and enterprise
