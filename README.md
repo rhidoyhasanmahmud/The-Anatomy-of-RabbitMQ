@@ -8,7 +8,6 @@
 
 | No. | Questions |
 | --- | --------- |
-|   | **Core RabbitMQ** |
 |1  | [What is RabbitMQ?](#what-is-rabbitmq) |
 
 ## Core Message broker - RabbitMQ
