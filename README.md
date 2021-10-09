@@ -231,7 +231,7 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-11. ### Retry Strategy
+11. ### RabbitMQ Retry Strategy
 
     1. Default Spring AMQP
 
