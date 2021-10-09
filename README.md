@@ -19,6 +19,7 @@
 |9    | [How to consume messages from RabbitMQ using Spring Boot?](#how-to-consume-messages-from-RabbitMQ-using-Spring-Boot)|
 |10 | [What is a Dead Letter Queue?](#what-is-a-Dead-Letter-Queue)|
 |11 | [RabbitMQ Retry Strategy](#RabbitMQ-Retry-Strategy)
+|12 | [Implement Direct Exchange, Topics Exchange, Fanout Exchange using Spring Boot and Rabbitmq - Consumer and Producer](#spring-boot-rabbitmq-exchange)
 
 ## Core Message broker - RabbitMQ
 
