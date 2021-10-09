@@ -8,17 +8,17 @@
 
 | No. | Questions |
 | --- | --------- |
-|1  | [What is Messaging?](#What_is_Messaging)|
+|1  | [What is Messaging?](#what_is_Messaging)|
 |2  | [What is RabbitMQ?](#what-is-rabbitmq) |
-|3  | [What is Advanced Message Queuing Protocol?](#What_is_Advanced_Message_Queuing_Protocol)
-|4  | [What is an exchange?](#What_is_an_exchange)|
-|5  | [Types of exchange](#Types_of_exchange)|
-|6  | [How RabbitMQ Works?](#How_RabbitMQ_Works)|
-|7  | [What is routing key in RabbitMQ?](#What_is_routing_key_in_RabbitMQ)|
-|8  | [Does RabbitMQ have any concept of message priority?](#Does_RabbitMQ_have_any_concept_of_message_priority)|
-|9    | [How to consume messages from RabbitMQ using Spring Boot?](#How_to_consume_messages_from_RabbitMQ_using_Spring_Boot)|
-|10 | [What is a Dead Letter Queue?](#What_is_a_Dead_Letter_Queue)|
-|11 | [RabbitMQ Retry Strategy](#RabbitMQ_Retry_Strategy)
+|3  | [What is Advanced Message Queuing Protocol?](#what_is_Advanced_Message_Queuing_Protocol)
+|4  | [What is an exchange?](#what_is_an_exchange)|
+|5  | [Types of exchange](#types_of_exchange)|
+|6  | [How RabbitMQ Works?](#how_RabbitMQ_Works)|
+|7  | [What is routing key in RabbitMQ?](#what_is_routing_key_in_RabbitMQ)|
+|8  | [Does RabbitMQ have any concept of message priority?](#does_RabbitMQ_have_any_concept_of_message_priority)|
+|9    | [How to consume messages from RabbitMQ using Spring Boot?](#how_to_consume_messages_from_RabbitMQ_using_Spring_Boot)|
+|10 | [What is a Dead Letter Queue?](#what_is_a_Dead_Letter_Queue)|
+|11 | [RabbitMQ Retry Strategy](#rabbitMQ_Retry_Strategy)
 
 ## Core Message broker - RabbitMQ
 
