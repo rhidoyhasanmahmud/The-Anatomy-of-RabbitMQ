@@ -8,9 +8,9 @@
 
 | No. | Questions |
 | --- | --------- |
-|1  | [What is Messaging?](#what_is_Messaging)|
+|1  | [What is Messaging?](#what_is_messaging)|
 |2  | [What is RabbitMQ?](#what-is-rabbitmq) |
-|3  | [What is Advanced Message Queuing Protocol?](#what_is_Advanced_Message_Queuing_Protocol)
+|3  | [What is Advanced Message Queuing Protocol?](#what_is_advanced_message_queuing_protocol)
 |4  | [What is an exchange?](#what_is_an_exchange)|
 |5  | [Types of exchange](#types_of_exchange)|
 |6  | [How RabbitMQ Works?](#how_RabbitMQ_Works)|
