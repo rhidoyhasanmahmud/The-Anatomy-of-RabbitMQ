@@ -17,6 +17,6 @@
 
     RabbitMQ is a **message broker or queue manager** that implements the **AMQP protocol**. This means that he takes messages in a queue and sends them to consumers. A message can include any kind of information.
 
-    	![vdom](images/RabbitMQ_Process.jpg)
+    ![rabbitmq-consume-produce-flow](images/RabbitMQ_Process.jpg)
 
    **[⬆ Back to Top](#table-of-contents)**
