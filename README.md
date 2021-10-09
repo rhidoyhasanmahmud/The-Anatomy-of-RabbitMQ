@@ -27,11 +27,13 @@
 
    With a message broker, we can decouple [separate] our application easily. This means we use a microservice
    architecture.
+
    ![rabbitmq-microservice](images/rabbitmq_microservice.jpg)
 
    And Let's imagine that the Email Service is unavailable.
+
    ![rabbitmq-microservice](images/rmq_3.png)
-   
+
    That will not affect the other services, and the application still works.
 
    **[⬆ Back to Top](#table-of-contents)**
