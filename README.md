@@ -297,7 +297,7 @@
 
 12. ### Spring boot Rabbitmq Exchange Example
     
-    [Implement Direct Exchange, Topics Exchange, Fanout Exchange using Spring Boot and Rabbitmq (Consumer and Producer)](https://github.com/CodeMechanix/RabbitMQ-Interview-Questions/tree/main/Project)
+    Project Link:: [Implement Direct Exchange, Topics Exchange, Fanout Exchange using Spring Boot and Rabbitmq (Consumer and Producer)](https://github.com/CodeMechanix/RabbitMQ-Interview-Questions/tree/main/Project)
 
     **[⬆ Back to Top](#table-of-contents)**
 ---
