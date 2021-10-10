@@ -1,0 +1,140 @@
+{
+	"info": {
+		"_postman_id": "f8a10746-5afe-4a4c-abed-4b16955b8c4a",
+		"name": "RabbitMQ-Service",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Folder",
+			"item": []
+		},
+		{
+			"name": "RabbitMQ - Direct Exchange",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"message\": \"Direct Exchange Message\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8070/rabbitmq-service/api/producer/direct/direct2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8070",
+					"path": [
+						"rabbitmq-service",
+						"api",
+						"producer",
+						"direct",
+						"direct2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "RabbitMQ - Fanout Exchange",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"message\": \"Fanout Exchange Message\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8070/rabbitmq-service/api/producer/fanout",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8070",
+					"path": [
+						"rabbitmq-service",
+						"api",
+						"producer",
+						"fanout"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "RabbitMQ - Topic Exchange",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"message\": \"Topic Exchange Message\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8070/rabbitmq-service/api/producer/topic/rabbitmq.spring",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8070",
+					"path": [
+						"rabbitmq-service",
+						"api",
+						"producer",
+						"topic",
+						"rabbitmq.spring"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "RabbitMQ - Topic Exchange",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"message\": \"Topic Exchange Message\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8070/rabbitmq-service/api/producer/topic/rabbitmq",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8070",
+					"path": [
+						"rabbitmq-service",
+						"api",
+						"producer",
+						"topic",
+						"rabbitmq"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,25 @@
+server:
+  servlet:
+    context-path: /rabbitmq-service
+  port: 8070
+
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+
+#  rabbitmq:
+#    host: 130.50.80.204
+#    port: 5672
+#    username: rabbit-mq
+#    password: rabbit-mq
+
+logging:
+  level:
+    org.springframework: WARN
+    org.springframework.security: WARN
+    org.hibernate: WARN
+    org.apache: WARN
+    com.babl.robismartsales: INFO
