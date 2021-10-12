@@ -1,4 +1,4 @@
-# RabbitMQ Interview Questions & Answers & Coding Exercise
+# The Anatomy of RabbitMQ & Coding Exercise
 
 > Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@HasanMahmud](https://www.linkedin.com/in/codemechanix/) for technical updates.
 
